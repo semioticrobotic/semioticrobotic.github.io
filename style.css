@@ -86,3 +86,25 @@ a, a:link, a:visited, a:hover, a:active {
 	color: #9133FF;
 	text-decoration:none;
 }
+
+/* Form styling */
+
+label {
+	color: #404040;
+}
+
+input[type=text] {
+	width: 50%;
+	color: #404040;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+	background-color: white;
+	border: 1px solid #9133FF;
+	color: #9133FF;
+	padding: 5px;
+	font-family: serif;
+	font-size: 100%;
+	text-decoration: none;
+
+}
