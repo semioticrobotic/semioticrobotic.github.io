@@ -83,7 +83,7 @@ ol {
 	color: #404040;
 }
 a, a:link, a:visited, a:hover, a:active {
-	color: #9133FF;
+	color: #00cc99;
 	text-decoration:none;
 }
 
@@ -100,8 +100,8 @@ input[type=text] {
 
 input[type=button], input[type=submit], input[type=reset] {
 	background-color: white;
-	border: 1px solid #9133FF;
-	color: #9133FF;
+	border: 1px solid #00cc99;
+	color: #00cc99;
 	padding: 5px;
 	font-family: serif;
 	font-size: 100%;
