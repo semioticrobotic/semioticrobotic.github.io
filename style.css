@@ -85,7 +85,6 @@ a, a:link, a:visited, a:hover, a:active {
 	color: #cc6600;
 	text-decoration:none;
 }
-
 #menu a:link, a:visited {
 	background-color: white;
 	color: #cc6600;
@@ -96,7 +95,6 @@ a, a:link, a:visited, a:hover, a:active {
 	text-decoration: none;
 	display: inline-block;
 }
-
 #menu a:hover, a:active {
   background-color: #cc6600;
   color: white;
@@ -107,19 +105,15 @@ a, a:link, a:visited, a:hover, a:active {
 label {
 	color: #404040;
 }
-
 input[type=text] {
 	width: 50%;
 	color: #404040;
 }
-
 input[type=button], input[type=submit], input[type=reset] {
 	background-color: white;
 	border: 1px solid #cc6600;
+	border-radius: 7px;
 	color: #cc6600;
-	padding: 5px;
-	font-family: serif;
-	font-size: 100%;
+	padding: .7%;
 	text-decoration: none;
-
 }
