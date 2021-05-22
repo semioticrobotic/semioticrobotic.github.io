@@ -86,9 +86,9 @@ ol {
 
 a, a:link, a:visited, a:hover, a:active {
 	color: #cc6600;
-	text-decoration:none;
+	text-decoration: none;
 }
-#menu a:link, a:visited {
+#menu a:link, #menu a:visited {
 	background-color: white;
 	color: #cc6600;
 	border: 1px solid #cc6600;
@@ -98,7 +98,7 @@ a, a:link, a:visited, a:hover, a:active {
 	text-decoration: none;
 	display: inline-block;
 }
-#menu a:hover, a:active {
+#menu a:hover, #menu a:active {
   background-color: #cc6600;
   color: white;
 }
