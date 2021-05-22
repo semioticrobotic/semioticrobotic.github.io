@@ -30,7 +30,6 @@ div#menu {
 	font-size: 100%;
 	text-align: left;
 	padding-bottom: 1%;
-	border-bottom: 1px solid #313131;
 }
 div#footer {
     font-family: serif;
@@ -85,6 +84,22 @@ ol {
 a, a:link, a:visited, a:hover, a:active {
 	color: #cc6600;
 	text-decoration:none;
+}
+
+#menu a:link, a:visited {
+	background-color: white;
+	color: #cc6600;
+	border: 1px solid #cc6600;
+	border-radius: 7px;
+	padding: .7%;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+
+#menu a:hover, a:active {
+  background-color: #cc6600;
+  color: white;
 }
 
 /* Form styling */
