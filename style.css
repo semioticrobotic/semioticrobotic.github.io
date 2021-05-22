@@ -81,6 +81,9 @@ ol {
 	line-height: 155%;
 	color: #404040;
 }
+
+/* Hyperlink styling */
+
 a, a:link, a:visited, a:hover, a:active {
 	color: #cc6600;
 	text-decoration:none;
